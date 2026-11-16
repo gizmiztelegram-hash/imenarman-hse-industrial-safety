@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gizmiztelegram-hash.github.io/imenarman-hse-industrial-safety/sitemap.xml
